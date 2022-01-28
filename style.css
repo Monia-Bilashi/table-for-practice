@@ -1,0 +1,30 @@
+table,
+th,
+td {
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    height: 30px
+}
+
+th {
+    width: 200px;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+.th3-and-th4 {
+    width: 100px;
+}
+
+td {
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
